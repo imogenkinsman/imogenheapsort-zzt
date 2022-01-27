@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/immykins/imogenheapsort/issues"
   },
-  "homepage": "https://github.com/immykins/imogenheapsort#readme"
+  "homepage": "https://github.com/immykins/imogenheapsort#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
